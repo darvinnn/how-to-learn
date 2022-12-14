@@ -1,0 +1,10 @@
+.feynman__subtitle {
+  margin: 70px auto auto;
+  text-align: center;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  position: relative;
+  z-index: 1;
+  pointer-events: none; /** Чтобы ссылка "Подробнее" была кликабельна и подзаголовок ее не перекрывал**/
+}

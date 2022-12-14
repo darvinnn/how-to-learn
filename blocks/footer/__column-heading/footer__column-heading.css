@@ -1,0 +1,8 @@
+.footer__column-heading {
+  color: white;
+  /* непонятно, почему он не унаследовал от прародителя footer__columns белый цвет */
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
