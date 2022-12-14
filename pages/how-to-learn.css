@@ -48,69 +48,6 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/rotation/rotation.css);
-<<<<<<< HEAD
-
-
-.link {
-  color: #2f80ed;
-  text-decoration: none;
-  transition: ease .2s;
-}
-
-.link:hover {
-  opacity: .8;
-}
-
-.techniques {
-  width: 80%;
-  margin: 0 auto;
-}
-
-.section-title {
-}
-
-.section-title_place_techniques {
-  padding-top: 100px;
-}
-
-.section-subtitle {
-}
-.cards {
-  display: flex;
-  width: 920px;
-  column-gap: 100px;
-  flex-wrap: wrap;
-  margin: 0 auto;
-}
-.cards__item {
-  padding-top: 60px;
-  width: 240px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.cards__image {
-  height: 160px;
-  width: 160px;
-  border-radius: 50%;
-}
-.cards__title {
-  padding-top: 43px;
-  margin: 0;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: 600;
-  text-align: center;
-}
-.card__description {
-  padding-top: 16px;
-  text-align: center;
-  margin: 0;
-  line-height: 23px;
-  font-size: 18px;
-  font-weight: normal;
-}
-=======
 @import url(../blocks/link/link.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
@@ -135,4 +72,3 @@
 @import url(../blocks/resourses/resourses.css);
 @import url(../blocks/resourses/__link/resourses__link.css);
 @import url(../blocks/resourses/__logo-zone/resourses__logo-zone.css);
->>>>>>> d0b1188 (1 итерация второго спринта)
